@@ -1,0 +1,50 @@
+h1 {
+    color: rgb(255, 28, 28);
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: flex-end;
+    rotate: 180deg;
+    transform: scaleY(-1);
+    transform: scaleX(-1);
+}
+
+h2 {
+    color: rgb(191, 255, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(137, 157, 173);
+}
+
+p {
+    color: bisque;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hoho {
+    color: azure;
+}
+
+.hoho:hover {
+    border: 5px dotted yellow;
+    transition: 300ms;
+}
+
+#idd {
+    background-color: rgb(32, 206, 183);
+}
+
+
+#id1 {
+    color: blue;
+}
+
+#id2 {
+    color: rgb(199, 21, 9);
+}
+
+
+#info {
+    color: black;
+}
